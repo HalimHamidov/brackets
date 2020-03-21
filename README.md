@@ -42,6 +42,13 @@ Write your code in `src/index.js`
 
 ### Notes
 1. We recommend you to use nodejs of version 10 or lower. If you using any of features that does not supported by node v10, score won't be submitted.
+But the requirement is different on https://app.rs.school/course/student/auto-test?course=rss-pl-2020-q1
+
+`The system will run tests in the following repository and will update the score based on the result:
+https://github.com/halimhamidov/brackets
+IMPORTANT: Tests are run using NodeJS 12. Please make sure your solution works in NodeJS 12.`
+
+
 2. Please be sure that each of your test in limit of 30sec.
 
 credits [@yankouskia](https://github.com/yankouskia/)
